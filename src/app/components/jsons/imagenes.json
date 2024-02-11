@@ -1,0 +1,32 @@
+[
+  {
+    "index": 1,
+    "titulo": "Imagen 1",
+    "imagen": "images/imagen1.jpg"
+  },
+  {
+    "index": 2,
+    "titulo": "Imagen 2",
+    "imagen": "images/imagen2.jpg"
+  },
+  {
+    "index": 3,
+    "titulo": "Imagen 3",
+    "imagen": "images/imagen3.jpg"
+  },
+  {
+    "index": 4,
+    "titulo": "Imagen 4",
+    "imagen": "images/imagen4.jpg"
+  },
+  {
+    "index": 5,
+    "titulo": "Imagen 5",
+    "imagen": "images/imagen5.jpg"
+  },
+  {
+    "index": 6,
+    "titulo": "Imagen 6",
+    "imagen": "images/imagen6.jpg"
+  }
+]
